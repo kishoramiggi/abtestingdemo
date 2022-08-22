@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.button-1 {
+  width: 100px;
+  background-color: teal;
+}
+
+.button-2 {
+  width: 100px;
+  background-color: yellow;
+}
